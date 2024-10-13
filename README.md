@@ -1,4 +1,4 @@
-# obs_wowr_plugin
+# OBS WoW Recording Script
 My attempt at an OBS Plugin to start recordings based on World of Warcraft events.
 
 # Installation
